@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/baitapGK1/static/css/main.6cb49ad0.css",
+    "main.js": "/baitapGK1/static/js/main.fe9e438e.js",
+    "static/media/webbody.png": "/baitapGK1/static/media/webbody.d0397931c18203639e81.png",
+    "index.html": "/baitapGK1/index.html",
+    "main.6cb49ad0.css.map": "/baitapGK1/static/css/main.6cb49ad0.css.map",
+    "main.fe9e438e.js.map": "/baitapGK1/static/js/main.fe9e438e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb49ad0.css",
+    "static/js/main.fe9e438e.js"
+  ]
+}
